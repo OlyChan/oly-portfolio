@@ -667,9 +667,9 @@ a {
   .nav-links.is-open {
     display: flex;
   }
-/* .hero-photo-wrapper{
-  margin-bottom: 1.5rem;
-} */
+.hero-photo-wrapper{
+  margin-bottom: 6rem;
+}
 .hero-content{
   margin-top: 7rem;
 }
