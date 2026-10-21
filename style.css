@@ -667,8 +667,11 @@ a {
   .nav-links.is-open {
     display: flex;
   }
-.hero-photo-wrapper{
+/* .hero-photo-wrapper{
   margin-bottom: 1.5rem;
+} */
+.hero-content{
+  margin-top: 2rem;
 }
 
   .section-hero,
