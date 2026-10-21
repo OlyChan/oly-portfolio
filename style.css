@@ -668,11 +668,11 @@ a {
     display: flex;
   }
 .hero-photo-wrapper{
-  margin-bottom: 6rem;
+  margin-bottom: 8.5rem;
 }
-.hero-content{
+/* .hero-content{
   margin-top: 7rem;
-}
+} */
 
   .section-hero,
   .section-projects,
