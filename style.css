@@ -667,6 +667,9 @@ a {
   .nav-links.is-open {
     display: flex;
   }
+.hero-photo-wrapper{
+  margin-bottom: 8.5rem;
+}
 
   .section-hero,
   .section-projects,
@@ -676,9 +679,6 @@ a {
   }
 .hero-content{
   align-items: center;
-}
-.hero-grid{
-  gap: 2.5rem;
 }
 
   .section-title,
